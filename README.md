@@ -12,3 +12,5 @@ This Repository contains RNAseq analysis from Raw reads to feature counts.
  1. RNA_seq.sh : Linux based for first two steps
  2. Rsubread-RNA-Script.R : for Genome mapping and feature count
  3. R-script-for-all-files.R : R script to run the align command for all samples in loop
+
+    #Further Differential Expression Analysis can perform using DESeq2.(Which is provided in another Repository.)
